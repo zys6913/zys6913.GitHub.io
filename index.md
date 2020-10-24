@@ -8,6 +8,8 @@
 
 youtube：zys927281
 
+参与编辑此站(但不可增加广告):https://github.com/zys6913/zys6913.github.io/edit/main/index.md
+
 ## 我的小图片
 
 https://s1.ax1x.com/2020/10/24/BEzDmV.gif
