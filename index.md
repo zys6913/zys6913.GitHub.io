@@ -88,6 +88,8 @@ IOS14.2BETA4：https://ibeta.me/Install/iOS14db
 
 Block OTA Updates：https://ibeta.me/Install/noota
 
+翻墙软件：itms-services://?action=download-manifest&url=https://soft.mxnode.cn/moon.plist
+
 ## Copyright
 
 copyright KNXNSKX.inc
