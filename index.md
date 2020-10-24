@@ -82,6 +82,12 @@ knxnskx@126.com
 
 knxnskx@yeah.net
 
+## iphone小福利
+
+IOS14.2BETA4：https://ibeta.me/Install/iOS14db
+
+Block OTA Updates：https://ibeta.me/Install/noota
+
 ## Copyright
 
 copyright KNXNSKX.inc
