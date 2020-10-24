@@ -4,7 +4,7 @@
 
 精选Cydia软件源：[点我发车](https://zys6913.github.io/cydiarepos.github.io/)
 
-浏览器主页：zys837.github.io
+浏览器主页:zys837.github.io
 
 youtube：zys927281
 
