@@ -1,8 +1,6 @@
 ## 这里是赵奕山的个人主页
 
-You can use the [editor on GitHub](https://github.com/zys6913/zys6913.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+—此站搭建中—
 
 ## 我的小图片
 
