@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## 这里是赵奕山的个人主页
 
 You can use the [editor on GitHub](https://github.com/zys6913/zys6913.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 我的小图片
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://s1.ax1x.com/2020/10/24/BEzDmV.gif
+https://s1.ax1x.com/2020/10/24/BEz0O0.png
+https://s1.ax1x.com/2020/10/24/BEzwyq.png
+https://s1.ax1x.com/2020/10/24/BEzdln.png
+https://s1.ax1x.com/2020/10/24/BEzaSs.jpg
+https://s1.ax1x.com/2020/10/24/BEzNWj.gif
+https://s1.ax1x.com/2020/10/24/BEzlOP.png
+https://s1.ax1x.com/2020/10/24/BEzQyt.jpg
+https://s1.ax1x.com/2020/10/24/BEzMQI.gif
+https://s1.ax1x.com/2020/10/24/BEznWd.jpg
+https://s1.ax1x.com/2020/10/24/BEzeFe.gif
+https://s1.ax1x.com/2020/10/24/BEzVoD.png
+https://s1.ax1x.com/2020/10/24/BEzAeK.jpg
+https://s1.ax1x.com/2020/10/24/BEzFL6.jpg
+https://s1.ax1x.com/2020/10/24/BEzisx.jpg
+https://s1.ax1x.com/2020/10/24/BEzPQ1.jpg
+https://s1.ax1x.com/2020/10/24/BEz9zR.jpg
+https://s1.ax1x.com/2020/10/24/BEzpW9.jpg
+https://s1.ax1x.com/2020/10/24/BEzSJJ.jpg
+https://s1.ax1x.com/2020/10/24/BExvoF.jpg
+https://s1.ax1x.com/2020/10/24/BExjdU.jpg
+https://s1.ax1x.com/2020/10/24/BExXZT.gif
+https://s1.ax1x.com/2020/10/24/BExqs0.jpg
+https://s1.ax1x.com/2020/10/24/BExbMq.jpg
+https://s1.ax1x.com/2020/10/24/BExTRs.png
+https://s1.ax1x.com/2020/10/24/BExoGj.png
+https://s1.ax1x.com/2020/10/24/BExIiQ.jpg
 
-```markdown
-Syntax highlighted code block
+## 我的联系方式
 
-# Header 1
-## Header 2
-### Header 3
+zys12354@yandex.com
+zys927281@gmail.com
 
-- Bulleted
-- List
+## Copyright
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zys6913/zys6913.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+copyright KNXNSKX.inc
