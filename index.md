@@ -42,3 +42,7 @@ Block OTA Updates：[点我安装](https://ibeta.me/Install/noota)
 
 copyright KNXNSKX.inc
 
+## about PAGE
+
+[GO](https://zys6913.github.io/zys6913/)
+
