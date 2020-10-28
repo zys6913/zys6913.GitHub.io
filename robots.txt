@@ -3,6 +3,10 @@ User-agent: Googlebot
 Allow: /
 
 # Group 2
+User-agent: Bingbot
+Allow: /
+
+# Group 3
 User-agent: *
 Allow: /
 
