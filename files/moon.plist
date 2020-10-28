@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0"><dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string><![CDATA[https://soft.mxnode.cn/moon.ipa]]></string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>needs-shine</key>
+          <integer>0</integer>
+          <key>url</key>
+          <string><![CDATA[https://soft.mxnode.cn/moon_logo.png]]></string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>needs-shine</key>
+          <true/>
+          <key>url</key>
+          <string><![CDATA[https://soft.mxnode.cn/moon_logo.png]]></string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.moonlight.app.ios</string>
+        <key>bundle-version</key>
+        <string><![CDATA[4.01]]></string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+	<string><![CDATA[---月光加速器.注意:若提示"未受信任的企业开发者",请到手机的：设置-通用-设备管理-企业级APP中,点击信任“8117292 Canada Inc”即可正常使用.]]></string>
+      </dict>
+    </dict>
+  </array>
+</dict></plist>
