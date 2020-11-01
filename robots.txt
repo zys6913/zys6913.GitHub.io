@@ -1,6 +1,6 @@
 # Group 1
 User-agent: Googlebot
-Allow: /
+Disallow: /files
 
 # Group 2
 User-agent: Bingbot
