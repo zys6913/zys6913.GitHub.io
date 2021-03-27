@@ -259,8 +259,10 @@ document.getElementById("jieg").value=cu;
      document.getElementById("demo-form").submit();
    }
  </script>
-		
-			type="button" onclick="dianwo()">hit me</button>
+		<button class="g-recaptcha"
+                        data-sitekey="reCAPTCHA_site_key" 
+                        data-callback='onSubmit' 
+			type="button" data-action='submit' onclick="dianwo()">hit me</button>
 		<div class="zhezhao" id='zhezhao'>
 			<div class="tankuang">
 				<div id="header">
